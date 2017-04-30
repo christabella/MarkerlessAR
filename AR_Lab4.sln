@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Lab4", "Assembly-CSharp.csproj", "{11702D98-0554-3A25-A088-DDEF90AA9839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Lab4", "Assembly-CSharp-Editor.csproj", "{9ADCD014-75D6-DA5C-632A-B135BF14FC78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11702D98-0554-3A25-A088-DDEF90AA9839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11702D98-0554-3A25-A088-DDEF90AA9839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11702D98-0554-3A25-A088-DDEF90AA9839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11702D98-0554-3A25-A088-DDEF90AA9839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ADCD014-75D6-DA5C-632A-B135BF14FC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADCD014-75D6-DA5C-632A-B135BF14FC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADCD014-75D6-DA5C-632A-B135BF14FC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADCD014-75D6-DA5C-632A-B135BF14FC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
